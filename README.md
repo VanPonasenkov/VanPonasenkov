@@ -2,7 +2,8 @@
 Welcome to my profile, wanderer. If you are wondering i know:
 - C
 - Go
-- JS|TS
+- JS
+- TS
 - Java
 
 Currently learning:
